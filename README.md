@@ -226,14 +226,6 @@ _Model performance, comparison tables, and dashboard screenshots will be added h
 ## Author
 
 **Shourya Chauhan** — B.Tech Computer Science & Engineering
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-
----
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
