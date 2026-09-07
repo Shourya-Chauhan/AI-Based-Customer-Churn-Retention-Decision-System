@@ -3,3 +3,7 @@ numpy
 pymongo
 scikit-learn
 python-dotenv
+certifi
+setuptools
+pymongo[srv]==3.6
+-e .
