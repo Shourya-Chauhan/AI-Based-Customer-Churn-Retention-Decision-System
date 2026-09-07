@@ -1,9 +1,9 @@
 pandas
 numpy
-pymongo
+pymongo>=4.15,<5
+dnspython>=2.7,<3
 scikit-learn
 python-dotenv
 certifi
 setuptools
-pymongo[srv]==3.6
 -e .
